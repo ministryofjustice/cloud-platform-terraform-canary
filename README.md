@@ -17,10 +17,10 @@ Some of the inputs are tags. All infrastructure resources need to be tagged acco
 | Name | Description | Type | Default | Required |
 |------|-------------|:----:|:-----:|:-----:|
 | application |  | string | - | yes |
-| business-unit | Area of the MOJ responsible for the service | string | `mojdigital` | yes |
-| environment-name |  | string | - | yes |
-| infrastructure-support | The team responsible for managing the infrastructure. Should be of the form team-email | string | - | yes |
-| is-production |  | string | `false` | yes |
+| business_unit | Area of the MOJ responsible for the service | string | `mojdigital` | yes |
+| environment |  | string | - | yes |
+| infrastructure_support | The team responsible for managing the infrastructure. Should be of the form team-email | string | - | yes |
+| is_production |  | string | `false` | yes |
 | team_name |  | string | - | yes |
 
 ## Reading Material
