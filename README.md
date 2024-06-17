@@ -6,7 +6,7 @@ This Terraform module creates an AWS Synthetics Canary resource for the Cloud Pl
 
 See the [examples/](examples/) folder.
 
-<!--- BEGIN_TF_DOCS --->
+<!-- BEGIN_TF_DOCS -->
 ## Requirements
 
 | Name | Version |
@@ -58,8 +58,7 @@ No modules.
 ## Outputs
 
 No outputs.
-
-<!--- END_TF_DOCS --->
+<!-- END_TF_DOCS -->
 
 ## Tags
 
